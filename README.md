@@ -47,4 +47,4 @@ If you're looking for a reliable and skilled software developer to bring your id
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masterArnob)  
 
-![Profile views](https://gpvc.arturio.dev/masterArnob)  
+
