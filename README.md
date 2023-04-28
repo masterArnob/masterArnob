@@ -1,13 +1,12 @@
+### Hi there 👋, I'm Sadmanul Hoque
+#### Web Developer
+![Web Developer](https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/252521408_1581044522241269_7356554407283345787_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sDVeeghEUC8AX8VlP-t&_nc_ht=scontent.fdac11-1.fna&oh=00_AfCpKyQKdz1mnPPhWqTHOGQSt4nZqRvIv7k9HjsKDT0hoA&oe=6451175A)
+
 Hey there, I'm Sadmanul Hoque, a software developer specializing in Java, JavaFX, C++, C, HTML, CSS, PHP, and web development. I create cutting-edge, scalable software solutions that meet the specific needs of my clients.
 
 With my extensive experience in developing software across various platforms, I am dedicated to delivering top-quality products from inception to launch. My passion for problem-solving, meticulous attention to detail, and excellent communication skills have earned me a reputation for exceeding client expectations.
 
 If you're looking for a reliable and skilled software developer to bring your ideas to life, feel free to reach out to me. I'm always eager to collaborate on exciting new projects and provide you with the best possible solution.
-You sent
-Python and Machine Learning
-You sent
-<h1 align="center">Hi 👋, I'm Sadmanul Hoque</h1>
-<h3 align="center">Hey there, I'm Sadmanul Hoque, a software developer specializing in Java, JavaFX, C++, C, HTML, CSS, PHP, and web development. I create cutting-edge, scalable software solutions that meet the specific needs of my clients. With my extensive experience in developing software across various platforms, I am dedicated to delivering top-quality products from inception to launch. My passion for problem-solving, meticulous attention to detail, and excellent communication skills have earned me a reputation for exceeding client expectations. If you're looking for a reliable and skilled software developer to bring your ideas to life, feel free to reach out to me. I'm always eager to collaborate on exciting new projects and provide you with the best possible solution.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterarnob&label=Profile%20views&color=0e75b6&style=flat" alt="masterarnob" /> </p>
 
