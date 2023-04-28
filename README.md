@@ -48,27 +48,25 @@ If you're looking for a reliable and skilled software developer to bring your id
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masterArnob)  
 
 
-<p>
  ### Education
-1. B.Sc in Computer Science (Ongoing) 
+1. B.Sc in Computer Science (Ongoing) <br>
 Southeast University
 Dhaka, Bangladesh
 3. HSC 
 Willes Little Flower School and Collage
 Dhaka, Bangladesh
-</p>
 
-<p>
+
+
  ### Languages 
 1. Bangla : Native
 2. English : Advanced
 3. German : Basic
-</p>
 
-<p>
+
+
  ### Sports / Game / Activities / Hobby:
  ✈️ Travelling, 🎸Guitar,🚶‍♂️ Walking
-</p>
 
 
 
