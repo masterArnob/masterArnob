@@ -45,8 +45,6 @@ If you're looking for a reliable and skilled software developer to bring your id
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masterArnob&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masterArnob)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masterArnob)  
 
 ![Profile views](https://gpvc.arturio.dev/masterArnob)  
