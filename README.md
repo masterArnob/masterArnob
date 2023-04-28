@@ -36,4 +36,17 @@ If you're looking for a reliable and skilled software developer to bring your id
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterarnob&show_icons=true&locale=en&layout=compact" alt="masterarnob" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterarnob&show_icons=true&locale=en" alt="masterarnob" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterarnob&" alt="masterarnob" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masterArnob)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=masterArnob)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterArnob)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masterArnob&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masterArnob)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=masterArnob)  
+
+![Profile views](https://gpvc.arturio.dev/masterArnob)  
