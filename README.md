@@ -36,8 +36,4 @@ If you're looking for a reliable and skilled software developer to bring your id
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterarnob&show_icons=true&locale=en&layout=compact" alt="masterarnob" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterarnob&show_icons=true&locale=en" alt="masterarnob" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterarnob&" alt="masterarnob" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterarnob&show_icons=true&locale=en&layout=compact" alt="masterarnob" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterarnob&show_icons=true&locale=en" alt="masterarnob" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterarnob&" alt="masterarnob" /></p>
