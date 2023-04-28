@@ -1,33 +1,37 @@
-### Hi there 👋, I'm Sadmanul Hoque
-#### Web Developer
-![Web Developer](https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/252521408_1581044522241269_7356554407283345787_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sDVeeghEUC8AX8VlP-t&_nc_ht=scontent.fdac11-1.fna&oh=00_AfCpKyQKdz1mnPPhWqTHOGQSt4nZqRvIv7k9HjsKDT0hoA&oe=6451175A)
-
 Hey there, I'm Sadmanul Hoque, a software developer specializing in Java, JavaFX, C++, C, HTML, CSS, PHP, and web development. I create cutting-edge, scalable software solutions that meet the specific needs of my clients.
 
 With my extensive experience in developing software across various platforms, I am dedicated to delivering top-quality products from inception to launch. My passion for problem-solving, meticulous attention to detail, and excellent communication skills have earned me a reputation for exceeding client expectations.
 
 If you're looking for a reliable and skilled software developer to bring your ideas to life, feel free to reach out to me. I'm always eager to collaborate on exciting new projects and provide you with the best possible solution.
+You sent
+Python and Machine Learning
+You sent
+<h1 align="center">Hi 👋, I'm Sadmanul Hoque</h1>
+<h3 align="center">Hey there, I'm Sadmanul Hoque, a software developer specializing in Java, JavaFX, C++, C, HTML, CSS, PHP, and web development. I create cutting-edge, scalable software solutions that meet the specific needs of my clients. With my extensive experience in developing software across various platforms, I am dedicated to delivering top-quality products from inception to launch. My passion for problem-solving, meticulous attention to detail, and excellent communication skills have earned me a reputation for exceeding client expectations. If you're looking for a reliable and skilled software developer to bring your ideas to life, feel free to reach out to me. I'm always eager to collaborate on exciting new projects and provide you with the best possible solution.</h3>
 
-Skills: Java /JavaFx /C++ /C /HTML /CSS /PHP
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterarnob&label=Profile%20views&color=0e75b6&style=flat" alt="masterarnob" /> </p>
 
-- 🔭 I’m currently working on YouTube 
-- 🌱 I’m currently learning Python and Machine Learning 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: sadmanarnob31@gmail.com  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterarnob" alt="masterarnob" /></a> </p>
 
+- 🔭 I’m currently working on *YouTube*
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/masterArnob)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/arnob.22690)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_sadman_arnob_//)  
+- 🌱 I’m currently learning *Python and Machine Learning*
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/masterArnob)](https://github.com/ryo-ma/github-profile-trophy)
+- 👯 I’m looking to collaborate on *github*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/masterArnob)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me *sadmanarnob31@gmail.com*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/masterArnob&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sadman arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman arnob" height="30" width="40" /></a>
+<a href="https://instagram.com/sadman arnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadman arnob" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/masterArnob)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/masterArnob)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterarnob&show_icons=true&locale=en&layout=compact" alt="masterarnob" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/masterArnob)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterarnob&show_icons=true&locale=en" alt="masterarnob" /></p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/masterArnob)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterarnob&" alt="masterarnob" /></p>
