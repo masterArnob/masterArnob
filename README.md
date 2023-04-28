@@ -52,13 +52,13 @@ If you're looking for a reliable and skilled software developer to bring your id
 1. B.Sc in Computer Science (Ongoing) <br>
 Southeast University<br>
 Dhaka, Bangladesh
-3. HSC 
+2. HSC 
 Willes Little Flower School and Collage<br>
 Dhaka, Bangladesh
 
 
 
- ### Languages 
+ ### Languages :
 1. Bangla : Native
 2. English : Advanced
 3. German : Basic
