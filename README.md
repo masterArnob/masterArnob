@@ -48,12 +48,12 @@ If you're looking for a reliable and skilled software developer to bring your id
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masterArnob)  
 
 
- ### Education
+ ### Education :
 1. B.Sc in Computer Science (Ongoing) <br>
-Southeast University
+Southeast University<br>
 Dhaka, Bangladesh
 3. HSC 
-Willes Little Flower School and Collage
+Willes Little Flower School and Collage<br>
 Dhaka, Bangladesh
 
 
