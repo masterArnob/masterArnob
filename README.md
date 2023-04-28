@@ -22,8 +22,8 @@ If you're looking for a reliable and skilled software developer to bring your id
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/arnob.22690?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman arnob" height="30" width="40" /></a>
-<a href="https://instagram.com/sadman arnob" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadman arnob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arnob.22690?mibextid=ZbWKwL"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadman arnob" height="30" width="40" /></a>
+<a href="https://instagram.com/sadman arnob"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadman arnob" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
