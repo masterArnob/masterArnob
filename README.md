@@ -45,7 +45,7 @@ If you're looking for a reliable and skilled software developer to bring your id
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masterArnob&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masterArnob)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=masterArnob&theme=highcontrast)](https://git.io/streak-stats)
 
 
  ### Education :
@@ -69,7 +69,7 @@ Dhaka, Bangladesh
  ✈️ Travelling, 🎸Guitar,🚶‍♂️ Walking
  
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=masterArnob&theme=highcontrast)](https://git.io/streak-stats)
+
 
 
 
