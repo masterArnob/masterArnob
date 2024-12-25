@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sadmanul Hoque 👋</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1iVkCaOxSKlUGBSSjEGriyzFy6EoNr1uK" alt="Sadmanul Hoque" width="200" height="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1iVkCaOxSKlUGBSSjEGriyzFy6EoNr1uK" alt="Sadmanul Hoque" />
 </p>
 
 ---
