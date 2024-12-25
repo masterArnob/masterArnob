@@ -93,10 +93,10 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** and **Data Sci
 - **B.Sc. in Computer Science** *(Present)*  
   Southeast University, Dhaka, Bangladesh  
 
-- **HSC**  
+- **HSC** *(2018-2020)*  
   Willes Little Flower School and College, Dhaka, Bangladesh
 
-- **SSC**  
+- **SSC** *(2016-2018)*  
   Willes Little Flower School and College, Dhaka, Bangladesh 
 
 ---
