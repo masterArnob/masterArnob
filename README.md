@@ -15,7 +15,7 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** with expertise
 - 🔭 Currently working on **YouTube Projects**.  
 - 🌱 Exploring **Machine Learning** and **Python**.  
 - 👯 Open to collaborations on innovative **GitHub projects**.  
-- 📫 Reach me at **sadmanarnob31@gmail.com**.  
+- 📫 Reach me at **shagorshorkar71@gmail.com**.  
 
 ---
 
