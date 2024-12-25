@@ -44,20 +44,19 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** with expertise
 
 ### 📊 GitHub Stats  
 
-<p align="">
+
   <img src="https://github-readme-stats.vercel.app/api?username=masterArnob&show_icons=true&theme=react&hide_border=true" alt="Sadmanul's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterArnob&theme=react&hide_border=true" alt="GitHub Streak" width="49%" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterArnob&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterArnob&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+
+
 
 ---
 
 ### 🌍 Connect with Me  
 
-<p align="">
+
   <a href="https://www.facebook.com/arnob.22690?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -67,7 +66,7 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** with expertise
   <a href="mailto:sadmanarnob31@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+
 
 ---
 
