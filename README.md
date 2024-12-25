@@ -4,9 +4,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1iVkCaOxSKlUGBSSjEGriyzFy6EoNr1uK" alt="Sadmanul Hoque"/>
 </p>
 
-<p align="center">
-  <b>Software Developer | Full-Stack Enthusiast | Problem Solver</b>
-</p>
+
 
 ---
 
@@ -46,12 +44,12 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** with expertise
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=masterArnob&show_icons=true&theme=react&hide_border=true" alt="Sadmanul's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterArnob&theme=react&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterArnob&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -59,7 +57,7 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** with expertise
 
 ### 🌍 Connect with Me  
 
-<p align="center">
+<p align="">
   <a href="https://www.facebook.com/arnob.22690?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
