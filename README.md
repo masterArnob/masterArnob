@@ -93,7 +93,7 @@ Hi, I'm **Sadmanul Hoque**, a passionate **Full-Stack Developer** and **Data Sci
 
 ### 🎓 Education  
 
-- **B.Sc. in Computer Science** *(Present)*  
+- **B.Sc. in Computer Science** *(2021-Present)*  
   Southeast University, Dhaka, Bangladesh  
 
 - **HSC** *(2018-2020)*  
